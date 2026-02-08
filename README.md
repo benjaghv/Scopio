@@ -1,5 +1,7 @@
 # Scopio 👁️
 
+### ***Observability for automated processes.***
+
 **Scopio** es una herramienta para **visualizar y monitorear errores en procesos automáticos**.
 
 Centraliza eventos de ejecución y muestra de forma clara **qué proceso falló, cuándo y en qué estado se encuentra**, sin depender de logs dispersos ni revisiones manuales.
